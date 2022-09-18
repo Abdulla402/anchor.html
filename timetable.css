@@ -1,0 +1,28 @@
+table{
+
+    color: red;
+    border: 10px solid black;
+    padding: 10px 10px 10px 10px;
+    margin-right: center;
+}
+
+td{
+    color: blue;
+}
+
+h2{
+    color:darkorange;
+    padding: 10px 10px 10px 10px;
+
+    
+}
+
+
+h1{
+
+    color: red;
+     
+    text-align: center;
+    padding : 10px 100px 10px 100px;
+    margin-right: 5px 500px 5px 500px;
+}
